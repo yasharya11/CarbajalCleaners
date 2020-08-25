@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rpDHQ5NrK1g8IFrXvWUH6eqmK6dJWSwUwnoDA+KsR/x9x88yLPt34iTLpUv0Wd6zG6jXGlTSxpifHrR//rMxSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell User\\Desktop\\Code\\2020\\CarbajalCleaners\\CarbajalCleaners\\CarbajalCleaners\\CarbajalCleaners.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell User\\.nuget\\packages\\bootstrap\\4.5.2\\bootstrap.4.5.2.nupkg.sha512",
+    "C:\\Users\\Dell User\\.nuget\\packages\\jquery\\3.5.1\\jquery.3.5.1.nupkg.sha512",
+    "C:\\Users\\Dell User\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
