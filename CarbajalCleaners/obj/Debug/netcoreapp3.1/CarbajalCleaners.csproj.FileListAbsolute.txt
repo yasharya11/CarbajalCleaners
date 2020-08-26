@@ -72,3 +72,4 @@ C:\Users\Dell User\Desktop\Code\2020\CarbajalCleaners\CarbajalCleaners\CarbajalC
 C:\Users\Dell User\Desktop\Code\2020\CarbajalCleaners\CarbajalCleaners\CarbajalCleaners\obj\Debug\netcoreapp3.1\CarbajalCleaners.pdb
 C:\Users\Dell User\Desktop\Code\2020\CarbajalCleaners\CarbajalCleaners\CarbajalCleaners\obj\Debug\netcoreapp3.1\CarbajalCleaners.genruntimeconfig.cache
 C:\Users\Dell User\Desktop\Code\2020\CarbajalCleaners\CarbajalCleaners\CarbajalCleaners\obj\Debug\netcoreapp3.1\CarbajalCleaners.csproj.CopyComplete
+C:\Users\Dell User\Desktop\Code\2020\CarbajalCleaners\CarbajalCleaners\CarbajalCleaners\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\CarbajalCleaners-dev-as - Web Deploy\profile.arm.json
